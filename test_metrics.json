@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.9977,
+  "f1_macro": 0.9977,
+  "precision": 0.9977,
+  "recall": 0.9977,
+  "mcc": 0.9955,
+  "auc_roc": 1.0,
+  "test_size": 4419,
+  "model": "bert-base-uncased",
+  "max_length": 512,
+  "epochs_run": 1,
+  "best_val_f1": 0.9984
+}
