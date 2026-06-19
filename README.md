@@ -39,7 +39,7 @@ Paste any news article and the fine-tuned BERT model classifies it as **Real** o
 | AUC-ROC | 1.0000 |
 | Best Val F1 | 0.9984 |
 | Test Samples | 4,419 |
-| Epochs | 1 |
+| Epochs | 6 |
 
 ### Classical ML Baselines
 | Model | Accuracy | F1 | MCC | AUC-ROC |
